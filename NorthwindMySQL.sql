@@ -1,11 +1,11 @@
 
---	create database rentACar;
- -- drop database rentACar;
+--	create database NorthWind;
+ -- drop database NorthWind;
 
-use rentACar;
+use NorthWind;
 
 --
--- PostgreSQL database dump
+-- PostgreSQL database dump to MySQL 
 --
 
 ---
